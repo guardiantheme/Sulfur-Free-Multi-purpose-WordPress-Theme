@@ -1,0 +1,59 @@
+
+#tb-portfolio-ul .tb_redux_field,
+#tb-portfolio-ul .tb_redux_title_field,
+#tb-portfolio-ul .tb_redux_designation_field,
+#tb-portfolio-ul .tb_redux_icon_field{
+	display: none;
+}
+
+#tb-testimonial-ul .tb_redux_field, 
+#tb-testimonial-ul .tb-sulfur-url, 
+#tb-testimonial-ul .tb_redux_title_field, 
+#tb-testimonial-ul .tb_redux_icon_field{
+	display: none;
+
+}
+#tb-team-ul .tb-sulfur-description,
+#tb-team-ul .tb_redux_icon_field,
+#tb-team-ul .tb_redux_title_field,
+#tb-team-ul .tb-sulfur-url{
+	display: none;
+
+}
+
+
+ #tb_sulfur-tb-service .redux_slides_add_remove, 
+ #tb_sulfur-tb-service .tb_redux_designation_field, 
+ #tb_sulfur-tb-service .tb_redux_field, 
+ #tb_sulfur-tb-service .tb-sulfur-url,
+ #tb_sulfur-tb-service .tb-sulfur-redux-title{
+	display: none;
+}
+
+#tb_sulfur-tb-service-counter .redux_slides_add_remove, 
+#tb_sulfur-tb-service-counter .tb-sulfur-redux-title, 
+#tb_sulfur-tb-service-counter .tb_redux_designation_field, 
+#tb_sulfur-tb-service-counter .tb_redux_field {
+
+	display: none;
+}
+
+#tb_sulfur-tb-service-pricing .redux_slides_add_remove, 
+#tb_sulfur-tb-service-pricing .tb-sulfur-redux-title, 
+#tb_sulfur-tb-service-pricing .tb_redux_designation_field, 
+#tb_sulfur-tb-service-pricing .tb_redux_field {
+	
+	display: none;
+}
+
+/*#tb_sulfur-tb-accordion .upload_button_div, 
+#tb_sulfur-tb-accordion .tb_redux_field, 
+#tb_sulfur-tb-accordion .tb_redux_icon_field, 
+#tb_sulfur-tb-accordion .tb-sulfur-url{
+	display: none;
+}
+*/
+ 
+
+
+
