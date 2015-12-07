@@ -77,7 +77,7 @@ global $tb_sulfur;
         <div class="row">
             <div class="col-md-7">
                 <div class="copyright">
-                    Copyright © 2015. <a href="http://www.guardiantheme.com">Guardiantheme.com</a> All Rights Reserved.
+                    Copyright © 2015. <a href="http://www.guardiantheme.com">GuardianTheme</a> All Rights Reserved.
                 </div>
             </div>
             
